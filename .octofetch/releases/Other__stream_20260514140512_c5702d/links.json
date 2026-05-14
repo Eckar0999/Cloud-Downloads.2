@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9542",
+  "folder": "Other__stream_20260514140512_c5702d",
+  "base_name": "Other__stream_20260514140512_c5702d.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Eckar0999/Cloud-Downloads.2/releases/tag/co-releases-v1-9542",
+  "files": [
+    {
+      "name": "Other__stream_20260514140512_c5702d.bin",
+      "url": "https://github.com/Eckar0999/Cloud-Downloads.2/releases/download/co-releases-v1-9542/Other__stream_20260514140512_c5702d.bin",
+      "api_url": "https://api.github.com/repos/Eckar0999/Cloud-Downloads.2/releases/assets/420204102",
+      "id": 420204102,
+      "size": 377571,
+      "download_count": 0
+    }
+  ]
+}
